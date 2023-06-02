@@ -11,4 +11,4 @@ NoteApp is a note-taking application as the name suggests
 - SQL Database
 
 ## Demo
-<img src='https://github.com/TopalBugrahan/NoteApp/assets/76047788/cb6c164b-07f1-4318-9109-0b7c068f962e' />
+<img src='https://github.com/TopalBugrahan/NoteApp/assets/76047788/34c2648a-c605-4b68-b7a4-518b9f494840' />
